@@ -7,7 +7,7 @@
 .sidebar {
 	width: 15%;
 	height: calc(100vh - 1px);
-	background: #2F4F4F;
+	background: #87CEFA;
 	float: left;
 	margin-top: 10px;
 	/*min-width: 200px; */
@@ -20,8 +20,10 @@
 	float: right;
 	float
 	margin-top: 10px;
+	padding: 10px;
 }
 
 .center-text {
 	text-align: center;
+	padding: 10px;
 }
